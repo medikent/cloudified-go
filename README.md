@@ -10,6 +10,7 @@ In following the course exercises bring you a basic level of familiarity with th
 - Google OAuth 2 : an authentication mechanism
 - Stackdriver Logging : application monitoring tool
 - Cloud Pub/Sub : a publish and subscribe event database
+- Extra Credit: Stackdriver Error Reporting
 - Extra Credit: Google Kubernetes Engine : a deployment platform
 
 ## Setup
@@ -206,6 +207,8 @@ to your download command in order to force the Go downloader to put the code in 
 ### End 2h9m
 
 ## Next Steps
+### Stackdriver Error Reporting
+- [Stackdriver Error Reporting](https://cloud.google.com/error-reporting/docs/setup/go)
 ### GKE Deployment
 - [Bookshelf on Kubernetes Engine](https://cloud.google.com/go/docs/tutorials/bookshelf-on-kubernetes-engine)
 - 
