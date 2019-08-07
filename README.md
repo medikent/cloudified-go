@@ -7,6 +7,7 @@ In following the course exercises bring you a basic level of familiarity with th
 - App Engine : a deployment platform 
 - Cloud Datastore : a NoSQL datastore for general purpose data storage
 - Cloud Storage : a Blob store for binary data like images
+- Google OAuth 2 : an authentication mechanism
 - Cloud Pub/Sub : a publish and subscribe event database
 - Google Kubernetes Engine : a deployment platform
 - Stackdriver Logging : 
