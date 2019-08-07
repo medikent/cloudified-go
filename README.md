@@ -105,7 +105,7 @@ to your download command in order to force the Go downloader to put the code in 
 #### Tutorial Steps
 - [Authenticating Users with Go](https://cloud.google.com/go/getting-started/authenticate-users)
 #### Online OAuth Setup
-- Go to the [credentials setup]([https://console.cloud.google.com/apis/credentials?_ga=2.235112390.-610306329.1543525261)
+- Go to the [credentials setup](https://console.cloud.google.com/apis/credentials?_ga=2.235112390.-610306329.1543525261)
 - Go to OAuth consent screen
   - Example set config props:
     - Name=Go Bookshelf App
