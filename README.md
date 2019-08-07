@@ -207,3 +207,5 @@ to your download command in order to force the Go downloader to put the code in 
 
 ## Next Steps
 ### GKE Deployment
+- [Bookshelf on Kubernetes Engine](https://cloud.google.com/go/docs/tutorials/bookshelf-on-kubernetes-engine)
+- 
