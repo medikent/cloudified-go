@@ -190,6 +190,7 @@ to your download command in order to force the Go downloader to put the code in 
   - A Tale of Two Cities by Charles Dickens
   - Crime and Punishment by Fyodor Dostoevsky
   - Pride and Prejudice by Jane Austen
+  - Sense and Sensibility by Jane Austen
 - Review the results come in as updated pictures for books
 - Deploy pubsub worker to App Environment
   - `$ cd pubsub_worker`
